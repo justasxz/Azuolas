@@ -94,7 +94,8 @@
 # univeras.studentai.append(stud1)
 # univeras.studentai.append(stud2)
 # univeras.studentai.append(stud3)
-# print(univeras)
 # print(univeras.studentai)
 
 # for stud in univeras.studentai:
+
+print("Pakeitimas")
