@@ -117,3 +117,5 @@ naujas_automobilis.uzsikurti("Benzinu")
 print(naujas_automobilis.Variklis.Tipas)
 
 # I faila irasom Car ("Raudona",50000, "Toyota", "Corolla", variklis1)
+
+print("Kito zmogaus pakeitimas")
